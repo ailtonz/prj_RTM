@@ -1,0 +1,7 @@
+Passos para instalação do sistema de faturamento:
+
+1 - Instale os drivers da impressora "Generic 9Pin"
+
+2 - Instale o programa 
+
+3 - Está pronto para usar! 
